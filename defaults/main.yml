@@ -1,0 +1,2 @@
+disable_root_login: true
+disable_password_login: true
