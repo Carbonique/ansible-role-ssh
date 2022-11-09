@@ -10,7 +10,7 @@ Ansible role to disable SSH password and root login
 Add the following to `requirements.yml`:
 
 ```
-- src: git@gitlab.com:carbonique/ansible-role-ssh.git
+- src: https://github.com/carbonique/ansible-role-ssh.git
   scm: git
   name: ssh
   version: #Leave empty for latest. To download a specific version: use the tag as listed in repo
